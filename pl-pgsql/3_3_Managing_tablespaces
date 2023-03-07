@@ -1,0 +1,4 @@
+-- Permission denied
+CREATE TABLESPACE ts_primary 
+LOCATION '/home/dev/Practicals/';
+
